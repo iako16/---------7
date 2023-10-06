@@ -1,0 +1,137 @@
+header{
+    width: 96%;
+    height: 200px;
+    margin-left: 2%;
+    background-color: #0020F4;
+}
+header h1{
+    color: #FFFFFF;
+    font-size:19px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.towers{
+    margin-top: -50px;
+    
+}
+.glass-tower{
+    width: 200px;
+    height: 200px;
+    border-radius:20px;
+    background-color: pink;
+    display: inline-block;
+    overflow: hidden;
+}
+.glass-tower img{
+  height: 200px;
+  position: absolute;
+
+}
+.glass-info{
+    width: 190px;
+    height: 55px;
+    opacity: 0.7;
+    background-color: rgb(226, 221, 221);
+    border-radius: 10px;
+    margin-top: 130px;
+    margin-left: 10px;
+    
+}
+.glass-info p{
+    font-size: 12px;
+    font-weight: 700;
+
+}
+.blue-tower{
+    width: 200px;
+    height: 200px;
+    border-radius:20px;
+    background-color: pink;
+    display: inline-block;
+    margin-left: 40px;
+    overflow: hidden;
+    position: relative;
+    padding-top: 50px;
+}
+.blue-tower img{
+    width: 250px;
+    height: 250px;
+    margin-left:-20px;
+    margin-top:-20px;
+    position: absolute;
+    object-fit: cover;
+    
+}
+.blue-info{
+    width: 190px;
+    height: 55px;
+    opacity: 0.7;
+    background-color: rgb(226, 221, 221);
+    border-radius: 10px;
+    margin-top: 130px;
+    margin-left: 10px;
+}
+.blue-info p{
+    font-size: 12px;
+    font-weight: 700;
+    padding-left: 10px;
+}
+.white-tower{
+    width: 200px;
+    height: 200px;
+    border-radius:20px;
+    background-color: pink;
+    display: inline-block;
+    margin-left: 40px;
+    overflow: hidden;
+}
+.white-tower img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+}
+.white-info{
+    width: 190px;
+    height: 55px;
+    opacity: 0.7;
+    background-color: rgb(226, 221, 221);
+    border-radius: 10px;
+    margin-top: 130px;
+    margin-left: 10px; 
+}
+.white-info p{
+    font-size: 12px;
+    font-weight: 700;
+    margin-right :5px;
+}
+
+.sky-tower{
+    width: 200px;
+    height: 200px;
+    border-radius:20px;
+    background-color: pink;
+    display: inline-block;
+    margin-left: 40px;
+    overflow: hidden;
+}
+.sky-tower img{
+    position: absolute;
+    width: 200px;
+    height: 200px; 
+}
+.sky-info{
+    width: 190px;
+    height: 55px;
+    opacity: 0.7;
+    background-color: rgb(226, 221, 221);
+    border-radius: 10px;
+    margin-top: 130px;
+    margin-left: 10px; 
+}
+.sky-info p{
+    font-size: 12px;
+    font-weight: 700;
+    margin-right :5px;
+}
+
+
